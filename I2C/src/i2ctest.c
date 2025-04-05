@@ -61,6 +61,7 @@ void pca9956a_operation( void );
 ** Returned value:		int
 **
 *****************************************************************************/
+
 int main (void)
 {                       /* Main Program */
 	uint32_t	i;
@@ -114,6 +115,8 @@ int main (void)
 	return 0;
 }
 
+#define	iRG_	0x7F
+#define	i__B	0xFF
 
 const 	char	data[]	= {
 	    0x80,                							//  Command
@@ -123,9 +126,9 @@ const 	char	data[]	= {
 	    0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, //  PWM[7:0]
 	    0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, //  PWM[15:8]
 	    0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, //  PWM[23:16]
-	    0x08, 0x08, 0x10, 0x08, 0x08, 0x10, 0x08, 0x08, //  IREF[7:0]
-	    0x10, 0x08, 0x08, 0x10, 0x08, 0x08, 0x10, 0x08, //  IREF[15:8]
-	    0x08, 0x10, 0x08, 0x08, 0x10, 0x08, 0x08, 0x10, //  IREF[23:16]
+	    iRG_, iRG_, i__B, iRG_, iRG_, i__B, iRG_, iRG_, //  IREF[7:0]
+	    i__B, iRG_, iRG_, i__B, iRG_, iRG_, i__B, iRG_, //  IREF[15:8]
+	    iRG_, i__B, iRG_, iRG_, i__B, iRG_, iRG_, i__B, //  IREF[23:16]
 };
 
 

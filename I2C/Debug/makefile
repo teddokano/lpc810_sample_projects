@@ -38,14 +38,14 @@ all:
 main-build: I2C.axf
 
 dependents:
-	-cd /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug && $(MAKE) clean all
-	-cd /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug && $(MAKE) clean all
+	-cd /Users/tedd/dev/mcuxpresso/lpc810_sample_projects/CMSIS_CORE_LPC8xx/Debug && $(MAKE) all
+	-cd /Users/tedd/dev/mcuxpresso/lpc810_sample_projects/lpc800_driver_lib/Debug && $(MAKE) all
 
 # Tool invocations
-I2C.axf: $(OBJS) $(USER_OBJS) /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a makefile $(OPTIONAL_TOOL_DEPS)
+I2C.axf: $(OBJS) $(USER_OBJS) /Users/tedd/dev/mcuxpresso/lpc810_sample_projects/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a /Users/tedd/dev/mcuxpresso/lpc810_sample_projects/lpc800_driver_lib/Debug/liblpc800_driver_lib.a makefile $(OPTIONAL_TOOL_DEPS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: MCU Linker'
-	arm-none-eabi-gcc -nostdlib -L"/Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug" -L"/Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug" -Xlinker -Map="I2C.map" -Xlinker --gc-sections -mcpu=cortex-m0 -mthumb -T I2C_Debug.ld -o "I2C.axf" $(OBJS) $(USER_OBJS) $(LIBS) -llpc800_driver_lib -lCMSIS_CORE_LPC8xx
+	arm-none-eabi-gcc -nostdlib -L"/Users/tedd/dev/mcuxpresso/lpc810_sample_projects/CMSIS_CORE_LPC8xx/Debug" -L"/Users/tedd/dev/mcuxpresso/lpc810_sample_projects/lpc800_driver_lib/Debug" -Xlinker -Map="I2C.map" -Xlinker --gc-sections -mcpu=cortex-m0 -mthumb -T I2C_Debug.ld -o "I2C.axf" $(OBJS) $(USER_OBJS) $(LIBS) -llpc800_driver_lib -lCMSIS_CORE_LPC8xx
 	@echo 'Finished building target: $@'
 	@echo ' '
 
@@ -60,7 +60,7 @@ post-build:
 	-@echo ' '
 
 .PHONY: all clean dependents main-build post-build
-/Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a:
-/Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a:
+/Users/tedd/dev/mcuxpresso/lpc810_sample_projects/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a:
+/Users/tedd/dev/mcuxpresso/lpc810_sample_projects/lpc800_driver_lib/Debug/liblpc800_driver_lib.a:
 
 -include ../makefile.targets

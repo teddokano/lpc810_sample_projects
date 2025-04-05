@@ -6,7 +6,7 @@
  * Generated linker script file for LPC810
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.30
- * MCUXpresso IDE v24.12 [Build 148] [2025-01-10] on 2025/04/05 18:21:12
+ * MCUXpresso IDE v24.12 [Build 148] [2025-01-10] on 2025/04/06 6:10:21
  */
 
 INCLUDE "I2C_Debug_library.ld"
