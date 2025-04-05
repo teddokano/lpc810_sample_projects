@@ -1,0 +1,580 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+                              ./src/main.o (CLKOUT_Setup)
+/Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                              ./src/main.o (GPIOSetBitValue)
+/Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                              ./src/main.o (mrt_counter)
+/Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                              ./src/main.o (SystemCoreClockUpdate)
+/Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc8xx.o (__main)
+/Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+                              /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o) (__aeabi_idiv)
+/Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+                              /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/crp.o
+ .group         0x00000000        0xc ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .debug_macro   0x00000000      0xac0 ./src/main.o
+ .debug_macro   0x00000000       0x1c ./src/main.o
+ .debug_macro   0x00000000       0x3a ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000      0x12e ./src/main.o
+ .debug_macro   0x00000000      0x5b3 ./src/main.o
+ .debug_macro   0x00000000      0x241 ./src/main.o
+ .debug_macro   0x00000000      0x146 ./src/main.o
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .text          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .data          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .bss           0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .text.WDT_CLK_Setup
+                0x00000000       0x24 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_macro   0x00000000      0xac6 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_macro   0x00000000       0x1c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_macro   0x00000000       0x3a /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_macro   0x00000000       0x10 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_macro   0x00000000      0x12e /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_macro   0x00000000      0x5b3 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_macro   0x00000000      0x241 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_macro   0x00000000      0x146 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_macro   0x00000000       0x22 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .data          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss           0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.PIN3_IRQHandler
+                0x00000000        0xa /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOInit
+                0x00000000       0x28 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOSetPinInterrupt
+                0x00000000       0x64 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPinIntEnable
+                0x00000000       0x28 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPinIntDisable
+                0x00000000       0x28 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPinIntStatus
+                0x00000000       0x18 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPinIntClear
+                0x00000000       0x14 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOGetPinValue
+                0x00000000       0x2c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPatternMatchInit
+                0x00000000       0x10 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOSetPatternMatchInput
+                0x00000000       0x10 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOSetPatternMatchSlice
+                0x00000000       0x54 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPatternMatchEnable
+                0x00000000       0x2c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint1_edge_counter
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint1_level_counter
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint0_edge_counter
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint0_level_counter
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint1_counter
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint0_counter
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0xac6 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000       0x1c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000       0x3a /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000       0x10 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0x12e /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0x5b3 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0x241 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0x146 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0x112 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .text          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .data          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .bss           0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .text.delayMs  0x00000000       0x1c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0xac6 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x1c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x3a /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x10 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x12e /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x5b3 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x241 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x146 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x16 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x2e /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .text          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .data          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .bss           0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000       0x10 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x12e /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x5b3 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000       0x1c /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000       0x3a /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x241 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x146 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .text          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+ .data          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+ .bss           0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+ .text          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash4          0x00000000         0x00001000         xr
+RamLoc1          0x10000000         0x00000400         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc8xx.o
+LOAD ./src/crp.o
+LOAD ./src/main.o
+LOAD /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a
+LOAD /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a
+START GROUP
+LOAD /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a
+LOAD /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a
+LOAD /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libgcc.a
+END GROUP
+                0x00000000                        __base_MFlash4 = 0x0
+                0x00000000                        __base_Flash = 0x0
+                0x00001000                        __top_MFlash4 = 0x1000
+                0x00001000                        __top_Flash = 0x1000
+                0x10000000                        __base_RamLoc1 = 0x10000000
+                0x10000000                        __base_RAM = 0x10000000
+                0x10000400                        __top_RamLoc1 = 0x10000400
+                0x10000400                        __top_RAM = 0x10000400
+
+.text           0x00000000      0x798
+ FILL mask 0xff
+                0x00000000                        __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc8xx.o
+                0x00000000                g_pfnVectors
+                0x000000c0                        . = ALIGN (0x4)
+                0x000000c0                        __section_table_start = .
+                0x000000c0                        __data_section_table = .
+                0x000000c0        0x4 LONG 0x798 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x4 SIZEOF (.data)
+                0x000000cc                        __data_section_table_end = .
+                0x000000cc                        __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000004 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x84 SIZEOF (.bss)
+                0x000000d4                        __bss_section_table_end = .
+                0x000000d4                        __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4       0x78 ./src/cr_startup_lpc8xx.o
+                0x000000d4                NMI_Handler
+                0x000000d6                HardFault_Handler
+                0x000000d8                PendSV_Handler
+                0x000000da                SysTick_Handler
+                0x000000dc                UART1_IRQHandler
+                0x000000dc                UART0_IRQHandler
+                0x000000dc                SPI1_IRQHandler
+                0x000000dc                IntDefaultHandler
+                0x000000dc                WDT_IRQHandler
+                0x000000dc                SPI0_IRQHandler
+                0x000000dc                CMP_IRQHandler
+                0x000000dc                WKT_IRQHandler
+                0x000000dc                SCT_IRQHandler
+                0x000000dc                I2C_IRQHandler
+                0x000000dc                PININT3_IRQHandler
+                0x000000dc                UART2_IRQHandler
+                0x000000dc                BOD_IRQHandler
+                0x000000de                data_init
+                0x000000f4                bss_init
+                0x00000108                ResetISR
+                0x00000148                SVCall_Handler
+                0x000002fc                        . = 0x2fc
+ *fill*         0x0000014c      0x1b0 ff
+                0x000002fc                        PROVIDE (__CRP_WORD_START__ = .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                        PROVIDE (__CRP_WORD_END__ = .)
+                0x00000001                        ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.main     0x00000300      0x144 ./src/main.o
+                0x00000300                main
+ .text.CLKOUT_Setup
+                0x00000444       0x24 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+                0x00000444                CLKOUT_Setup
+ .text.PININT_Handler
+                0x00000468       0xc0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000468                PININT_Handler
+ .text.PININT0_IRQHandler
+                0x00000528        0xa /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000528                PININT0_IRQHandler
+ .text.PININT1_IRQHandler
+                0x00000532        0xa /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000532                PININT1_IRQHandler
+ .text.PININT2_IRQHandler
+                0x0000053c        0xa /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x0000053c                PININT2_IRQHandler
+ .text.PININT4_IRQHandler
+                0x00000546        0xa /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000546                PININT4_IRQHandler
+ .text.PININT5_IRQHandler
+                0x00000550        0xa /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000550                PININT5_IRQHandler
+ .text.PININT6_IRQHandler
+                0x0000055a        0xa /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x0000055a                PININT6_IRQHandler
+ .text.PININT7_IRQHandler
+                0x00000564        0xa /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000564                PININT7_IRQHandler
+ .text.GPIOSetBitValue
+                0x0000056e       0x18 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x0000056e                GPIOSetBitValue
+ .text.GPIOSetDir
+                0x00000586       0x20 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000586                GPIOSetDir
+ *fill*         0x000005a6        0x2 ff
+ .text.MRT_IRQHandler
+                0x000005a8       0x20 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                0x000005a8                MRT_IRQHandler
+ .text.init_mrt
+                0x000005c8       0x4c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                0x000005c8                init_mrt
+ .text.SystemCoreClockUpdate
+                0x00000614       0x8c /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x00000614                SystemCoreClockUpdate
+ .text.SystemInit
+                0x000006a0       0x38 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x000006a0                SystemInit
+ .text.__weak_main
+                0x000006d8        0x8 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+                0x000006d8                __main
+                0x000006d8                __weak_main
+ .text.__aeabi_division_idivmod
+                0x000006e0       0x78 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+                0x000006e0                __aeabi_idiv
+                0x000006e0                __aeabi_idivmod
+                0x000006e6                __aeabi_uidiv
+                0x000006e6                __aeabi_uidivmod
+ .text.__aeabi_division_idiv0
+                0x00000758        0x2 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+                0x00000758                __aeabi_idiv0
+ *(.rodata .rodata.* .constdata .constdata.*)
+ *fill*         0x0000075a        0x2 ff
+ .rodata.CSWTCH.2
+                0x0000075c       0x3c /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x00000798                        . = ALIGN (0x4)
+
+.glue_7         0x00000798        0x0
+ .glue_7        0x00000798        0x0 linker stubs
+
+.glue_7t        0x00000798        0x0
+ .glue_7t       0x00000798        0x0 linker stubs
+
+.vfp11_veneer   0x00000798        0x0
+ .vfp11_veneer  0x00000798        0x0 linker stubs
+
+.v4_bx          0x00000798        0x0
+ .v4_bx         0x00000798        0x0 linker stubs
+
+.iplt           0x00000798        0x0
+ .iplt          0x00000798        0x0 ./src/cr_startup_lpc8xx.o
+
+.rel.dyn        0x00000798        0x0
+ .rel.iplt      0x00000798        0x0 ./src/cr_startup_lpc8xx.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00000798        0x0
+                0x00000798                        __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000798                        __exidx_end = .
+                0x00000798                        _etext = .
+
+.mtb_buffer_default
+ *(.mtb*)
+
+.uninit_RESERVED
+                0x10000000        0x0
+                0x10000000                        _start_uninit_RESERVED = .
+ *(.bss.$RESERVED*)
+                0x10000000                        . = ALIGN (0x4)
+                0x10000000                        _end_uninit_RESERVED = .
+
+.data           0x10000000        0x4 load address 0x00000798
+ FILL mask 0xff
+                0x10000000                        _data = .
+                [!provide]                        PROVIDE (__start_data_RAM = .)
+                [!provide]                        PROVIDE (__start_data_RamLoc1 = .)
+ *(vtable)
+ *(.ramfunc*)
+ *(CodeQuickAccess)
+ *(DataQuickAccess)
+ *(RamFunction)
+ *(.data*)
+ .data.SystemCoreClock
+                0x10000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x10000000                SystemCoreClock
+                0x10000004                        . = ALIGN (0x4)
+                0x10000004                        _edata = .
+                [!provide]                        PROVIDE (__end_data_RAM = .)
+                [!provide]                        PROVIDE (__end_data_RamLoc1 = .)
+
+.igot.plt       0x10000004        0x0 load address 0x0000079c
+ .igot.plt      0x10000004        0x0 ./src/cr_startup_lpc8xx.o
+
+.bss            0x10000004       0x84
+                0x10000004                        _bss = .
+                [!provide]                        PROVIDE (__start_bss_RAM = .)
+                [!provide]                        PROVIDE (__start_bss_RamLoc1 = .)
+ *(.bss*)
+ .bss.flex_int_falling_edge_counter
+                0x10000004       0x20 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x10000004                flex_int_falling_edge_counter
+ .bss.flex_int_rising_edge_counter
+                0x10000024       0x20 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x10000024                flex_int_rising_edge_counter
+ .bss.flex_int_level_counter
+                0x10000044       0x20 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x10000044                flex_int_level_counter
+ .bss.flex_int_counter
+                0x10000064       0x20 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x10000064                flex_int_counter
+ .bss.mrt_counter
+                0x10000084        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                0x10000084                mrt_counter
+ *(COMMON)
+                0x10000088                        . = ALIGN (0x4)
+                0x10000088                        _ebss = .
+                [!provide]                        PROVIDE (__end_bss_RAM = .)
+                [!provide]                        PROVIDE (__end_bss_RamLoc1 = .)
+                [!provide]                        PROVIDE (end = .)
+
+.noinit         0x10000088        0x0
+                0x10000088                        _noinit = .
+                [!provide]                        PROVIDE (__start_noinit_RAM = .)
+                [!provide]                        PROVIDE (__start_noinit_RamLoc1 = .)
+ *(.noinit*)
+                0x10000088                        . = ALIGN (0x4)
+                0x10000088                        _end_noinit = .
+                [!provide]                        PROVIDE (__end_noinit_RAM = .)
+                [!provide]                        PROVIDE (__end_noinit_RamLoc1 = .)
+                [!provide]                        PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10000400                        PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc1 - 0x0))
+                [!provide]                        PROVIDE (__valid_user_code_checksum = (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+                0x00000000                        _image_start = LOADADDR (.text)
+                0x0000079c                        _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x0000079c                        _image_size = (_image_end - _image_start)
+OUTPUT(Blinky.axf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x26cb
+ .debug_info    0x00000000      0x2d9 ./src/cr_startup_lpc8xx.o
+ .debug_info    0x000002d9       0x40 ./src/crp.o
+ .debug_info    0x00000319      0x58e ./src/main.o
+ .debug_info    0x000008a7      0x421 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_info    0x00000cc8      0xe21 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_info    0x00001ae9      0x72b /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_info    0x00002214      0x46d /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_info    0x00002681       0x4a /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_abbrev   0x00000000      0x946
+ .debug_abbrev  0x00000000      0x121 ./src/cr_startup_lpc8xx.o
+ .debug_abbrev  0x00000121       0x38 ./src/crp.o
+ .debug_abbrev  0x00000159      0x16a ./src/main.o
+ .debug_abbrev  0x000002c3       0xd4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_abbrev  0x00000397      0x27d /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_abbrev  0x00000614      0x1c4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_abbrev  0x000007d8      0x122 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_abbrev  0x000008fa       0x4c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_loc      0x00000000      0x944
+ .debug_loc     0x00000000      0x250 ./src/cr_startup_lpc8xx.o
+ .debug_loc     0x00000250      0x606 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_loc     0x00000856       0x4f /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_loc     0x000008a5       0x9f /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+
+.debug_aranges  0x00000000      0x200
+ .debug_aranges
+                0x00000000       0x60 ./src/cr_startup_lpc8xx.o
+ .debug_aranges
+                0x00000060       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000078       0x20 ./src/main.o
+ .debug_aranges
+                0x00000098       0x28 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_aranges
+                0x000000c0       0xc8 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_aranges
+                0x00000188       0x30 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_aranges
+                0x000001b8       0x28 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_aranges
+                0x000001e0       0x20 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_ranges   0x00000000      0x1b8
+ .debug_ranges  0x00000000       0x50 ./src/cr_startup_lpc8xx.o
+ .debug_ranges  0x00000050       0x10 ./src/main.o
+ .debug_ranges  0x00000060       0x18 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_ranges  0x00000078       0xf8 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_ranges  0x00000170       0x20 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_ranges  0x00000190       0x18 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_ranges  0x000001a8       0x10 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_macro    0x00000000     0x3075
+ .debug_macro   0x00000000       0x82 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000082      0xac6 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000b48       0x1c ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000b64       0x3a ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000b9e       0x10 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000bae      0x12e ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000cdc      0x5b3 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x0000128f      0x241 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x000014d0      0x146 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00001616       0x1a ./src/crp.o
+ .debug_macro   0x00001630      0xac0 ./src/crp.o
+ .debug_macro   0x000020f0       0x34 ./src/crp.o
+ .debug_macro   0x00002124       0x91 ./src/main.o
+ .debug_macro   0x000021b5       0x22 ./src/main.o
+ .debug_macro   0x000021d7      0x112 ./src/main.o
+ .debug_macro   0x000022e9       0x2e ./src/main.o
+ .debug_macro   0x00002317       0x7f /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_macro   0x00002396       0x88 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x0000241e       0x16 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00002434       0x88 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x000024bc       0xf9 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x000025b5      0xac0 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+
+.debug_line     0x00000000     0x19db
+ .debug_line    0x00000000      0x308 ./src/cr_startup_lpc8xx.o
+ .debug_line    0x00000308       0xb8 ./src/crp.o
+ .debug_line    0x000003c0      0x335 ./src/main.o
+ .debug_line    0x000006f5      0x2f0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_line    0x000009e5      0x90e /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_line    0x000012f3      0x365 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_line    0x00001658      0x32d /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_line    0x00001985       0x56 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_str      0x00000000     0x6f8f
+ .debug_str     0x00000000     0x6f8f ./src/cr_startup_lpc8xx.o
+                               0x5c36 (size before relaxing)
+ .debug_str     0x00006f8f     0x2e99 ./src/crp.o
+ .debug_str     0x00006f8f     0x6137 ./src/main.o
+ .debug_str     0x00006f8f     0x5d4e /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_str     0x00006f8f     0x650a /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_str     0x00006f8f     0x604c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_str     0x00006f8f     0x5f72 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_str     0x00006f8f      0x127 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+
+.comment        0x00000000       0x44
+ .comment       0x00000000       0x44 ./src/cr_startup_lpc8xx.o
+                                 0x45 (size before relaxing)
+ .comment       0x00000044       0x45 ./src/crp.o
+ .comment       0x00000044       0x45 ./src/main.o
+ .comment       0x00000044       0x45 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .comment       0x00000044       0x45 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .comment       0x00000044       0x45 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .comment       0x00000044       0x45 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .comment       0x00000044       0x45 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x2c ./src/cr_startup_lpc8xx.o
+ .ARM.attributes
+                0x0000002c       0x2c ./src/crp.o
+ .ARM.attributes
+                0x00000058       0x2c ./src/main.o
+ .ARM.attributes
+                0x00000084       0x2c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .ARM.attributes
+                0x000000b0       0x2c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .ARM.attributes
+                0x000000dc       0x2c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .ARM.attributes
+                0x00000108       0x2c /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .ARM.attributes
+                0x00000134       0x2c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000160       0x1c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x0000017c       0x1c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+
+.debug_frame    0x00000000      0x3b4
+ .debug_frame   0x00000000       0xbc ./src/cr_startup_lpc8xx.o
+ .debug_frame   0x000000bc       0x30 ./src/main.o
+ .debug_frame   0x000000ec       0x30 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_clkconfig.o)
+ .debug_frame   0x0000011c      0x1f0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_frame   0x0000030c       0x48 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_frame   0x00000354       0x38 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_frame   0x0000038c       0x28 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)

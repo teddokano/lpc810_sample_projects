@@ -1,0 +1,3 @@
+../src/lpc8xx_pmu.c:48:6:PMU_Init	16	static
+../src/lpc8xx_pmu.c:127:6:PMU_Sleep	8	static
+../src/lpc8xx_pmu.c:176:6:PMU_DeepPowerDown	0	static

@@ -1,0 +1,6 @@
+../src/i2ctest.c:212:6:wave	8	static
+../src/i2ctest.c:229:6:delay	0	static
+../src/i2ctest.c:237:6:i2c_write	8	static
+../src/i2ctest.c:219:6:write_register	16	static
+../src/i2ctest.c:127:6:pca9956a_operation	64	static
+../src/i2ctest.c:58:5:main	16	static

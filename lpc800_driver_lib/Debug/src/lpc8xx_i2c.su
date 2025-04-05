@@ -1,0 +1,15 @@
+../src/lpc8xx_i2c.c:92:6:I2C_I2CTimeoutStatus	8	static
+../src/lpc8xx_i2c.c:114:6:I2C_MasterStatus	8	static
+../src/lpc8xx_i2c.c:142:6:I2C_SlaveStatus	8	static
+../src/lpc8xx_i2c.c:188:6:I2C_IRQHandler	16	static
+../src/lpc8xx_i2c.c:336:6:I2C_MstInit	8	static
+../src/lpc8xx_i2c.c:373:6:I2C_SlvInit	12	static
+../src/lpc8xx_i2c.c:449:6:I2C_TimeoutInit	8	static
+../src/lpc8xx_i2c.c:483:10:I2C_CheckError	0	static
+../src/lpc8xx_i2c.c:525:6:I2C_CheckIdle	0	static
+../src/lpc8xx_i2c.c:550:6:I2C_MstSend	40	static
+../src/lpc8xx_i2c.c:621:6:I2C_MstReceive	40	static
+../src/lpc8xx_i2c.c:679:6:I2C_MstSendRcv	32	static
+../src/lpc8xx_i2c.c:792:6:I2C_SlaveSendData	20	static
+../src/lpc8xx_i2c.c:828:6:I2C_SlaveReceiveData	20	static
+../src/lpc8xx_i2c.c:876:6:I2C_SlaveReceiveSend	16	static

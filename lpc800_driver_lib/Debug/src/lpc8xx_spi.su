@@ -1,0 +1,9 @@
+../src/lpc8xx_spi.c:67:6:SPI_Handler	8	static
+../src/lpc8xx_spi.c:122:6:SPI0_IRQHandler	8	static
+../src/lpc8xx_spi.c:137:6:SPI1_IRQHandler	8	static
+../src/lpc8xx_spi.c:152:6:SPI_Init	32	static
+../src/lpc8xx_spi.c:232:6:SPI_SendRcv	20	static
+../src/lpc8xx_spi.c:316:6:SPI_Send	20	static
+../src/lpc8xx_spi.c:383:6:SPI_Receive	32	static
+../src/lpc8xx_spi.c:468:6:SPI_SlaveSend	20	static
+../src/lpc8xx_spi.c:508:6:SPI_SlaveReceive	16	static

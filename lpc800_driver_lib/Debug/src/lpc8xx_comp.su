@@ -1,0 +1,7 @@
+../src/lpc8xx_comp.c:44:6:CMP_IRQHandler	0	static
+../src/lpc8xx_comp.c:71:6:COMP_Init	0	static
+../src/lpc8xx_comp.c:110:6:COMP_SelectInput	0	static
+../src/lpc8xx_comp.c:137:6:COMP_SetOutput	0	static
+../src/lpc8xx_comp.c:161:6:COMP_SetInterrupt	0	static
+../src/lpc8xx_comp.c:199:6:COMP_SetHysteresis	0	static
+../src/lpc8xx_comp.c:215:10:COMP_GetOutputStatus	0	static

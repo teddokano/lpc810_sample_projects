@@ -1,0 +1,2 @@
+../src/lpc8xx_bod.c:36:6:BOD_IRQHandler	16	static
+../src/lpc8xx_bod.c:65:6:BOD_Init	0	static

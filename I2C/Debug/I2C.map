@@ -1,0 +1,775 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                              ./src/i2ctest.o (I2C_MstInit)
+/Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                              ./src/i2ctest.o (mrt_counter)
+/Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                              ./src/i2ctest.o (SystemCoreClockUpdate)
+/Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc8xx.o (__main)
+/Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+                              /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o) (__aeabi_idiv)
+/Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+                              /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+/Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+                              ./src/i2ctest.o (__aeabi_dmul)
+/Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+                              ./src/i2ctest.o (__aeabi_f2uiz)
+/Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(llong.o)
+                              /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o) (__aeabi_lmul)
+/Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                              /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o) (__gnu_thumb1_case_uqi)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc8xx.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0xc ./src/crp.o
+ .group         0x00000000        0xc ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .crp           0x00000000        0x4 ./src/crp.o
+ .debug_info    0x00000000       0x40 ./src/crp.o
+ .debug_abbrev  0x00000000       0x38 ./src/crp.o
+ .debug_aranges
+                0x00000000       0x18 ./src/crp.o
+ .debug_macro   0x00000000       0x1a ./src/crp.o
+ .debug_macro   0x00000000      0xac6 ./src/crp.o
+ .debug_macro   0x00000000       0x34 ./src/crp.o
+ .debug_line    0x00000000       0xb8 ./src/crp.o
+ .debug_str     0x00000000     0x2e97 ./src/crp.o
+ .comment       0x00000000       0x45 ./src/crp.o
+ .ARM.attributes
+                0x00000000       0x2c ./src/crp.o
+ .group         0x00000000        0xc ./src/i2ctest.o
+ .group         0x00000000        0xc ./src/i2ctest.o
+ .group         0x00000000        0xc ./src/i2ctest.o
+ .group         0x00000000        0xc ./src/i2ctest.o
+ .group         0x00000000        0xc ./src/i2ctest.o
+ .group         0x00000000        0xc ./src/i2ctest.o
+ .group         0x00000000        0xc ./src/i2ctest.o
+ .group         0x00000000        0xc ./src/i2ctest.o
+ .group         0x00000000        0xc ./src/i2ctest.o
+ .group         0x00000000        0xc ./src/i2ctest.o
+ .group         0x00000000        0xc ./src/i2ctest.o
+ .text          0x00000000        0x0 ./src/i2ctest.o
+ .data          0x00000000        0x0 ./src/i2ctest.o
+ .bss           0x00000000        0x0 ./src/i2ctest.o
+ .bss.I2CWriteLength
+                0x00000000        0x4 ./src/i2ctest.o
+ .bss.I2CReadLength
+                0x00000000        0x4 ./src/i2ctest.o
+ .debug_macro   0x00000000      0xac6 ./src/i2ctest.o
+ .debug_macro   0x00000000       0x1c ./src/i2ctest.o
+ .debug_macro   0x00000000       0x3a ./src/i2ctest.o
+ .debug_macro   0x00000000       0x10 ./src/i2ctest.o
+ .debug_macro   0x00000000      0x12e ./src/i2ctest.o
+ .debug_macro   0x00000000      0x5b3 ./src/i2ctest.o
+ .debug_macro   0x00000000      0x241 ./src/i2ctest.o
+ .debug_macro   0x00000000      0x146 ./src/i2ctest.o
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .text          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .data          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss           0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .text.I2C_SlaveStatus
+                0x00000000       0x30 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .text.I2C_SlvInit
+                0x00000000       0x60 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .text.I2C_MstReceive
+                0x00000000       0x78 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .text.I2C_MstSendRcv
+                0x00000000       0xe8 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .text.I2C_SlaveSendData
+                0x00000000       0x30 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .text.I2C_SlaveReceiveData
+                0x00000000       0x30 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .text.I2C_SlaveReceiveSend
+                0x00000000       0x64 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.I2CMonOverrunCount
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.I2CMonIdleCount
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.I2CSlvNotStrCount
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.I2CSlvDeselectedCount
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.I2CSlvSelectedCount
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.SlaveAddr
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.I2CMonRXCount
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.slvaddrrcvd
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.slvtxrdy  0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.slvrxrdy  0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.I2CSlvAddrCount
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.I2CSlvTXCount
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .bss.I2CSlvRXCount
+                0x00000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_macro   0x00000000      0xac6 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_macro   0x00000000       0x1c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_macro   0x00000000       0x3a /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_macro   0x00000000       0x10 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_macro   0x00000000      0x12e /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_macro   0x00000000      0x5b3 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_macro   0x00000000      0x241 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_macro   0x00000000      0x146 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_macro   0x00000000      0x155 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .text          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .data          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .bss           0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .text.delayMs  0x00000000       0x1c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0xac6 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x1c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x3a /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x10 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x12e /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x5b3 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x241 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x146 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x16 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x2e /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0xc /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .text          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .data          0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .bss           0x00000000        0x0 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000       0x10 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x12e /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x5b3 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000       0x1c /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000       0x3a /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x241 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x146 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .text          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+ .data          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+ .bss           0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+ .text          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+ .text          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .data          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .bss           0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ddiv
+                0x00000000      0x174 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dsub
+                0x00000000      0x1c4 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dadd
+                0x00000000      0x140 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_drsub
+                0x00000000       0x18 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dneg
+                0x00000000        0xc /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2iz
+                0x00000000       0x50 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2uiz
+                0x00000000       0x38 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2lz
+                0x00000000       0x8c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2ulz
+                0x00000000       0x5c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__bhs_ui2d
+                0x00000000       0x5e /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__bhs_ul2d
+                0x00000000       0xac /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_i2d
+                0x00000000       0x18 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ui2d
+                0x00000000        0xc /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_l2d
+                0x00000000       0x24 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ul2d
+                0x00000000        0xc /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpeq
+                0x00000000       0x34 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmplt
+                0x00000000       0x60 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpgt
+                0x00000000       0x60 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmple
+                0x00000000       0x6c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpge
+                0x00000000       0x68 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpun
+                0x00000000       0x1c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdcmple
+                0x00000000       0x2e /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdrcmple
+                0x00000000       0x14 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .text          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .data          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .bss           0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fmul
+                0x00000000       0xcc /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fdiv
+                0x00000000       0xf0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fsub
+                0x00000000      0x124 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fadd
+                0x00000000       0xb0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_frsub
+                0x00000000       0x10 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fneg
+                0x00000000        0x8 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2iz
+                0x00000000       0x34 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2lz
+                0x00000000       0x60 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2ulz
+                0x00000000       0x40 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__bhs_ui2f
+                0x00000000       0x60 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__bhs_ul2f
+                0x00000000       0x80 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_i2f
+                0x00000000       0x18 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ui2f
+                0x00000000        0xc /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_l2f
+                0x00000000       0x24 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ul2f
+                0x00000000        0xc /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpeq
+                0x00000000       0x20 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmplt
+                0x00000000       0x42 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpgt
+                0x00000000       0x3c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmple
+                0x00000000       0x44 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpge
+                0x00000000       0x42 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpun
+                0x00000000       0x16 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfcmple
+                0x00000000       0x24 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfrcmple
+                0x00000000        0xe /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .text          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(llong.o)
+ .data          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(llong.o)
+ .bss           0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsl
+                0x00000000       0x18 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsr
+                0x00000000       0x18 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lasr
+                0x00000000       0x18 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lcmp
+                0x00000000       0x14 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_ulcmp
+                0x00000000       0x10 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(llong.o)
+ .text          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .data          0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .bss           0x00000000        0x0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_sqi
+                0x00000000       0x10 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_shi
+                0x00000000       0x10 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_uhi
+                0x00000000       0x10 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_si
+                0x00000000       0x18 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(thumb1_switch_helpers.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash4          0x00000000         0x00001000         xr
+RamLoc1          0x10000000         0x00000400         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc8xx.o
+LOAD ./src/crp.o
+LOAD ./src/i2ctest.o
+LOAD /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a
+LOAD /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a
+START GROUP
+LOAD /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a
+LOAD /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a
+LOAD /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libgcc.a
+END GROUP
+                0x00000000                        __base_MFlash4 = 0x0
+                0x00000000                        __base_Flash = 0x0
+                0x00001000                        __top_MFlash4 = 0x1000
+                0x00001000                        __top_Flash = 0x1000
+                0x10000000                        __base_RamLoc1 = 0x10000000
+                0x10000000                        __base_RAM = 0x10000000
+                0x10000400                        __top_RamLoc1 = 0x10000400
+                0x10000400                        __top_RAM = 0x10000400
+
+.text           0x00000000      0xadc
+ FILL mask 0xff
+                0x00000000                        __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc8xx.o
+                0x00000000                g_pfnVectors
+                0x000000c0                        . = ALIGN (0x4)
+                0x000000c0                        __section_table_start = .
+                0x000000c0                        __data_section_table = .
+                0x000000c0        0x4 LONG 0xadc LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x4 SIZEOF (.data)
+                0x000000cc                        __data_section_table_end = .
+                0x000000cc                        __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000004 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x140 SIZEOF (.bss)
+                0x000000d4                        __bss_section_table_end = .
+                0x000000d4                        __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4       0x78 ./src/cr_startup_lpc8xx.o
+                0x000000d4                NMI_Handler
+                0x000000d6                HardFault_Handler
+                0x000000d8                PendSV_Handler
+                0x000000da                SysTick_Handler
+                0x000000dc                WKT_IRQHandler
+                0x000000dc                PININT2_IRQHandler
+                0x000000dc                PININT1_IRQHandler
+                0x000000dc                UART1_IRQHandler
+                0x000000dc                UART0_IRQHandler
+                0x000000dc                SPI1_IRQHandler
+                0x000000dc                IntDefaultHandler
+                0x000000dc                PININT6_IRQHandler
+                0x000000dc                SPI0_IRQHandler
+                0x000000dc                CMP_IRQHandler
+                0x000000dc                PININT7_IRQHandler
+                0x000000dc                SCT_IRQHandler
+                0x000000dc                WDT_IRQHandler
+                0x000000dc                PININT3_IRQHandler
+                0x000000dc                UART2_IRQHandler
+                0x000000dc                PININT5_IRQHandler
+                0x000000dc                PININT4_IRQHandler
+                0x000000dc                PININT0_IRQHandler
+                0x000000dc                BOD_IRQHandler
+                0x000000de                data_init
+                0x000000f4                bss_init
+                0x00000108                ResetISR
+                0x00000148                SVCall_Handler
+ *(.text*)
+ .text.wave     0x0000014c       0x20 ./src/i2ctest.o
+                0x0000014c                wave
+ .text.delay    0x0000016c       0x14 ./src/i2ctest.o
+                0x0000016c                delay
+ .text.i2c_write
+                0x00000180       0x14 ./src/i2ctest.o
+                0x00000180                i2c_write
+ .text.write_register
+                0x00000194       0x12 ./src/i2ctest.o
+                0x00000194                write_register
+ *fill*         0x000001a6        0x2 ff
+ .text.pca9956a_operation
+                0x000001a8      0x140 ./src/i2ctest.o
+                0x000001a8                pca9956a_operation
+ .text.startup.main
+                0x000002e8       0xb4 ./src/i2ctest.o
+                0x000002e8                main
+ .text.I2C_I2CTimeoutStatus
+                0x0000039c       0x30 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x0000039c                I2C_I2CTimeoutStatus
+ .text.I2C_MasterStatus
+                0x000003cc       0x40 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x000003cc                I2C_MasterStatus
+ .text.I2C_IRQHandler
+                0x0000040c       0xa4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x0000040c                I2C_IRQHandler
+ .text.I2C_MstInit
+                0x000004b0       0x4c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x000004b0                I2C_MstInit
+ .text.I2C_TimeoutInit
+                0x000004fc       0x40 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x000004fc                I2C_TimeoutInit
+ .text.I2C_CheckError
+                0x0000053c       0x40 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x0000053c                I2C_CheckError
+ .text.I2C_CheckIdle
+                0x0000057c       0x18 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x0000057c                I2C_CheckIdle
+ .text.I2C_MstSend
+                0x00000594       0x80 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x00000594                I2C_MstSend
+ .text.MRT_IRQHandler
+                0x00000614       0x20 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                0x00000614                MRT_IRQHandler
+ .text.init_mrt
+                0x00000634       0x4c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                0x00000634                init_mrt
+ .text.SystemCoreClockUpdate
+                0x00000680       0x8c /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x00000680                SystemCoreClockUpdate
+ .text.SystemInit
+                0x0000070c       0x38 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x0000070c                SystemInit
+ .text.__weak_main
+                0x00000744        0x8 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+                0x00000744                __main
+                0x00000744                __weak_main
+ .text.__aeabi_division_idivmod
+                0x0000074c       0x78 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+                0x0000074c                __aeabi_idiv
+                0x0000074c                __aeabi_idivmod
+                0x00000752                __aeabi_uidiv
+                0x00000752                __aeabi_uidivmod
+ .text.__aeabi_division_idiv0
+                0x000007c4        0x2 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+                0x000007c4                __aeabi_idiv0
+ *fill*         0x000007c6        0x2 ff
+ .text.__aeabi_dmul
+                0x000007c8      0x190 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+                0x000007c8                __aeabi_dmul
+ .text.__aeabi_d2f
+                0x00000958       0x64 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+                0x00000958                __aeabi_d2f
+ .text.__aeabi_f2uiz
+                0x000009bc       0x28 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+                0x000009bc                __aeabi_f2uiz
+ .text.__aeabi_f2d
+                0x000009e4       0x40 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+                0x000009e4                __aeabi_f2d
+ .text.__aeabi_llong_lmul
+                0x00000a24       0x2e /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(llong.o)
+                0x00000a24                __aeabi_lmul
+ .text.__gnu_thumb1_case_uqi
+                0x00000a52       0x10 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                0x00000a52                __gnu_thumb1_case_uqi
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.data   0x00000a62       0x3b ./src/i2ctest.o
+                0x00000a62                data
+ *fill*         0x00000a9d        0x3 ff
+ .rodata.CSWTCH.2
+                0x00000aa0       0x3c /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x00000adc                        . = ALIGN (0x4)
+
+.glue_7         0x00000adc        0x0
+ .glue_7        0x00000adc        0x0 linker stubs
+
+.glue_7t        0x00000adc        0x0
+ .glue_7t       0x00000adc        0x0 linker stubs
+
+.vfp11_veneer   0x00000adc        0x0
+ .vfp11_veneer  0x00000adc        0x0 linker stubs
+
+.v4_bx          0x00000adc        0x0
+ .v4_bx         0x00000adc        0x0 linker stubs
+
+.iplt           0x00000adc        0x0
+ .iplt          0x00000adc        0x0 ./src/cr_startup_lpc8xx.o
+
+.rel.dyn        0x00000adc        0x0
+ .rel.iplt      0x00000adc        0x0 ./src/cr_startup_lpc8xx.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00000adc        0x0
+                0x00000adc                        __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000adc                        __exidx_end = .
+                0x00000adc                        _etext = .
+
+.mtb_buffer_default
+ *(.mtb*)
+
+.uninit_RESERVED
+                0x10000000        0x0
+                0x10000000                        _start_uninit_RESERVED = .
+ *(.bss.$RESERVED*)
+                0x10000000                        . = ALIGN (0x4)
+                0x10000000                        _end_uninit_RESERVED = .
+
+.data           0x10000000        0x4 load address 0x00000adc
+ FILL mask 0xff
+                0x10000000                        _data = .
+                [!provide]                        PROVIDE (__start_data_RAM = .)
+                [!provide]                        PROVIDE (__start_data_RamLoc1 = .)
+ *(vtable)
+ *(.ramfunc*)
+ *(CodeQuickAccess)
+ *(DataQuickAccess)
+ *(RamFunction)
+ *(.data*)
+ .data.SystemCoreClock
+                0x10000000        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x10000000                SystemCoreClock
+                0x10000004                        . = ALIGN (0x4)
+                0x10000004                        _edata = .
+                [!provide]                        PROVIDE (__end_data_RAM = .)
+                [!provide]                        PROVIDE (__end_data_RamLoc1 = .)
+
+.igot.plt       0x10000004        0x0 load address 0x00000ae0
+ .igot.plt      0x10000004        0x0 ./src/cr_startup_lpc8xx.o
+
+.bss            0x10000004      0x140
+                0x10000004                        _bss = .
+                [!provide]                        PROVIDE (__start_bss_RAM = .)
+                [!provide]                        PROVIDE (__start_bss_RamLoc1 = .)
+ *(.bss*)
+ .bss.I2CSlaveRXBuffer
+                0x10000004       0x40 ./src/i2ctest.o
+                0x10000004                I2CSlaveRXBuffer
+ .bss.I2CSlaveTXBuffer
+                0x10000044       0x40 ./src/i2ctest.o
+                0x10000044                I2CSlaveTXBuffer
+ .bss.I2CMasterRXBuffer
+                0x10000084       0x40 ./src/i2ctest.o
+                0x10000084                I2CMasterRXBuffer
+ .bss.I2CMasterTXBuffer
+                0x100000c4       0x40 ./src/i2ctest.o
+                0x100000c4                I2CMasterTXBuffer
+ .bss.I2CMstSSErrCount
+                0x10000104        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x10000104                I2CMstSSErrCount
+ .bss.I2CARBLossCount
+                0x10000108        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x10000108                I2CARBLossCount
+ .bss.I2CMstNACKTXCount
+                0x1000010c        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x1000010c                I2CMstNACKTXCount
+ .bss.I2CMstNACKAddrCount
+                0x10000110        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x10000110                I2CMstNACKAddrCount
+ .bss.I2CMstIdleCount
+                0x10000114        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x10000114                I2CMstIdleCount
+ .bss.I2CEventTimeoutCount
+                0x10000118        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x10000118                I2CEventTimeoutCount
+ .bss.I2CSCLTimeoutCount
+                0x1000011c        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x1000011c                I2CSCLTimeoutCount
+ .bss.RetryCount
+                0x10000120        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x10000120                RetryCount
+ .bss.mstidle   0x10000124        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x10000124                mstidle
+ .bss.msttxrdy  0x10000128        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x10000128                msttxrdy
+ .bss.mstrxrdy  0x1000012c        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x1000012c                mstrxrdy
+ .bss.I2CMstTXCount
+                0x10000130        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x10000130                I2CMstTXCount
+ .bss.I2CMstRXCount
+                0x10000134        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x10000134                I2CMstRXCount
+ .bss.I2CInterruptCount
+                0x10000138        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x10000138                I2CInterruptCount
+ .bss.I2CStatus
+                0x1000013c        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+                0x1000013c                I2CStatus
+ .bss.mrt_counter
+                0x10000140        0x4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                0x10000140                mrt_counter
+ *(COMMON)
+                0x10000144                        . = ALIGN (0x4)
+                0x10000144                        _ebss = .
+                [!provide]                        PROVIDE (__end_bss_RAM = .)
+                [!provide]                        PROVIDE (__end_bss_RamLoc1 = .)
+                [!provide]                        PROVIDE (end = .)
+
+.noinit         0x10000144        0x0
+                0x10000144                        _noinit = .
+                [!provide]                        PROVIDE (__start_noinit_RAM = .)
+                [!provide]                        PROVIDE (__start_noinit_RamLoc1 = .)
+ *(.noinit*)
+                0x10000144                        . = ALIGN (0x4)
+                0x10000144                        _end_noinit = .
+                [!provide]                        PROVIDE (__end_noinit_RAM = .)
+                [!provide]                        PROVIDE (__end_noinit_RamLoc1 = .)
+                [!provide]                        PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10000400                        PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc1 - 0x0))
+                [!provide]                        PROVIDE (__valid_user_code_checksum = (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+                0x00000000                        _image_start = LOADADDR (.text)
+                0x00000ae0                        _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x00000ae0                        _image_size = (_image_end - _image_start)
+OUTPUT(I2C.axf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x688c
+ .debug_info    0x00000000      0x2d9 ./src/cr_startup_lpc8xx.o
+ .debug_info    0x000002d9      0xd30 ./src/i2ctest.o
+ .debug_info    0x00001009      0xf32 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_info    0x00001f3b      0x72b /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_info    0x00002666      0x46d /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_info    0x00002ad3       0x4a /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .debug_info    0x00002b1d     0x21fe /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .debug_info    0x00004d1b     0x1b71 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+
+.debug_abbrev   0x00000000     0x10b3
+ .debug_abbrev  0x00000000      0x121 ./src/cr_startup_lpc8xx.o
+ .debug_abbrev  0x00000121      0x25e ./src/i2ctest.o
+ .debug_abbrev  0x0000037f      0x32e /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_abbrev  0x000006ad      0x1c4 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_abbrev  0x00000871      0x122 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_abbrev  0x00000993       0x4c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .debug_abbrev  0x000009df      0x37b /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .debug_abbrev  0x00000d5a      0x359 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+
+.debug_loc      0x00000000     0x6d9d
+ .debug_loc     0x00000000      0x250 ./src/cr_startup_lpc8xx.o
+ .debug_loc     0x00000250      0x387 ./src/i2ctest.o
+ .debug_loc     0x000005d7      0xafa /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_loc     0x000010d1       0x4f /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_loc     0x00001120       0x9f /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_loc     0x000011bf     0x33da /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .debug_loc     0x00004599     0x2804 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+
+.debug_aranges  0x00000000      0x370
+ .debug_aranges
+                0x00000000       0x60 ./src/cr_startup_lpc8xx.o
+ .debug_aranges
+                0x00000060       0x48 ./src/i2ctest.o
+ .debug_aranges
+                0x000000a8       0x90 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_aranges
+                0x00000138       0x30 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_aranges
+                0x00000168       0x28 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_aranges
+                0x00000190       0x20 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .debug_aranges
+                0x000001b0       0xe0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .debug_aranges
+                0x00000290       0xe0 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+
+.debug_ranges   0x00000000      0x6a8
+ .debug_ranges  0x00000000       0x50 ./src/cr_startup_lpc8xx.o
+ .debug_ranges  0x00000050       0x38 ./src/i2ctest.o
+ .debug_ranges  0x00000088       0xc8 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_ranges  0x00000150       0x20 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_ranges  0x00000170       0x18 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_ranges  0x00000188       0x10 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .debug_ranges  0x00000198      0x290 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .debug_ranges  0x00000428      0x280 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+
+.debug_macro    0x00000000     0x2540
+ .debug_macro   0x00000000       0x82 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000082      0xac6 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000b48       0x1c ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000b64       0x3a ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000b9e       0x10 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000bae      0x12e ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000cdc      0x5b3 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x0000128f      0x241 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x000014d0      0x146 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00001616       0xa6 ./src/i2ctest.o
+ .debug_macro   0x000016bc       0x1c ./src/i2ctest.o
+ .debug_macro   0x000016d8      0x155 ./src/i2ctest.o
+ .debug_macro   0x0000182d       0x2e ./src/i2ctest.o
+ .debug_macro   0x0000185b       0x8e /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_macro   0x000018e9       0x16 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_macro   0x000018ff       0x88 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00001987       0xf9 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00001a80      0xac0 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+
+.debug_line     0x00000000     0x52aa
+ .debug_line    0x00000000      0x308 ./src/cr_startup_lpc8xx.o
+ .debug_line    0x00000308      0x5f2 ./src/i2ctest.o
+ .debug_line    0x000008fa      0xc36 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_line    0x00001530      0x365 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_line    0x00001895      0x32d /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_line    0x00001bc2       0x56 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .debug_line    0x00001c18     0x1f07 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .debug_line    0x00003b1f     0x178b /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+
+.debug_str      0x00000000     0x7508
+ .debug_str     0x00000000     0x7508 ./src/cr_startup_lpc8xx.o
+                               0x5c21 (size before relaxing)
+ .debug_str     0x00007508     0x65ed ./src/i2ctest.o
+ .debug_str     0x00007508     0x65cd /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_str     0x00007508     0x604c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_str     0x00007508     0x5f72 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_str     0x00007508      0x127 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .debug_str     0x00007508      0x382 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .debug_str     0x00007508      0x361 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+
+.comment        0x00000000       0x44
+ .comment       0x00000000       0x44 ./src/cr_startup_lpc8xx.o
+                                 0x45 (size before relaxing)
+ .comment       0x00000044       0x45 ./src/i2ctest.o
+ .comment       0x00000044       0x45 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .comment       0x00000044       0x45 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .comment       0x00000044       0x45 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .comment       0x00000044       0x45 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .comment       0x00000044       0x45 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .comment       0x00000044       0x45 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x2c ./src/cr_startup_lpc8xx.o
+ .ARM.attributes
+                0x0000002c       0x2c ./src/i2ctest.o
+ .ARM.attributes
+                0x00000058       0x2c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .ARM.attributes
+                0x00000084       0x2c /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .ARM.attributes
+                0x000000b0       0x2c /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .ARM.attributes
+                0x000000dc       0x2c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000108       0x1c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x00000124       0x1c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x00000140       0x2c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .ARM.attributes
+                0x0000016c       0x2c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)
+ .ARM.attributes
+                0x00000198       0x1c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(llong.o)
+ .ARM.attributes
+                0x000001b4       0x1c /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(thumb1_switch_helpers.o)
+
+.debug_frame    0x00000000      0x910
+ .debug_frame   0x00000000       0xbc ./src/cr_startup_lpc8xx.o
+ .debug_frame   0x000000bc       0xa8 ./src/i2ctest.o
+ .debug_frame   0x00000164      0x1a0 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_i2c.o)
+ .debug_frame   0x00000304       0x48 /Users/tedd/dev/mcuxpresso/__lpc810/lpc800_driver_lib/Debug/liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_frame   0x0000034c       0x38 /Users/tedd/dev/mcuxpresso/__lpc810/CMSIS_CORE_LPC8xx/Debug/libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_frame   0x00000384       0x28 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libcr_c.a(__weak__main.o)
+ .debug_frame   0x000003ac      0x2f4 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(double.o)
+ .debug_frame   0x000006a0      0x270 /Applications/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.macosx_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp/libcr_eabihelpers.a(float.o)

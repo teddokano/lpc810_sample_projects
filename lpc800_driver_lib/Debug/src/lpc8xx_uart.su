@@ -1,0 +1,8 @@
+../src/lpc8xx_uart.c:91:6:UART_Handler	12	static
+../src/lpc8xx_uart.c:209:6:UART0_IRQHandler	8	static
+../src/lpc8xx_uart.c:224:6:UART1_IRQHandler	8	static
+../src/lpc8xx_uart.c:239:6:UART2_IRQHandler	8	static
+../src/lpc8xx_uart.c:274:6:UARTClock_Init	8	static
+../src/lpc8xx_uart.c:318:6:UARTInit	24	static
+../src/lpc8xx_uart.c:428:6:UARTSend	20	static
+../src/lpc8xx_uart.c:488:6:USARTInit	16	static

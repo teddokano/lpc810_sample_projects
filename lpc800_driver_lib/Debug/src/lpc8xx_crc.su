@@ -1,0 +1,3 @@
+../src/lpc8xx_crc.c:41:6:CRC_SetMode	16	static
+../src/lpc8xx_crc.c:110:6:CRC_WriteData	0	static
+../src/lpc8xx_crc.c:141:10:CRC_GetSum	0	static

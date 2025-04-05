@@ -1,0 +1,3 @@
+../src/lpc8xx_mrt.c:45:6:delayMs	0	static
+../src/lpc8xx_mrt.c:63:6:MRT_IRQHandler	0	static
+../src/lpc8xx_mrt.c:83:6:init_mrt	8	static
