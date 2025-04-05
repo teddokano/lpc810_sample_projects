@@ -142,6 +142,8 @@ void pca9956a_operation( void )
 
 	init_mrt( 0x8000 );
 
+	delay( 50 );
+
 	while ( 1 )
 	{
 		i2c_write( 0x02, data, sizeof( data ) );
